@@ -1,1 +1,3 @@
-# godot-ai-to-stable-baselines (GATSB) pronounced "Gatsby"
+# godot-ai-to-stable-baselines (GATSB) 
+
+**pronounced "Gatsby"**
